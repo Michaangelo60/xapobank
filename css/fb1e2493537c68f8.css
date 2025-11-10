@@ -1,0 +1,1 @@
+@keyframes MoveScaleUpInitial{to{transform:translate3d(0,-105%,0) scaleY(1.5);opacity:0}}@keyframes MoveScaleUpEnd{0%{transform:translate3d(0,100%,0) scaleY(1.5);opacity:0}to{transform:translateZ(0);opacity:1}}.animated-button:hover .hover-inner{animation:MoveScaleUpInitial .3s forwards,MoveScaleUpEnd .3s .3s forwards}
